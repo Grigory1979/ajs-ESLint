@@ -1,0 +1,32 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grigory1979/ajs-ESLint.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Grigory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grigory1979/ajs-ESLint/issues"
+  },
+  "homepage": "https://github.com/Grigory1979/ajs-ESLint#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "dependencies": {
+    "core-js": "^3.36.0"
+  }
+}
